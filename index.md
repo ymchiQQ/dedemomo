@@ -1,10 +1,5 @@
 ## Welcome to Demo Pages
 
-
-[toc]
-
-<!-- You can use the [editor on GitHub](https://github.com/ymchiQQ/dedemomo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files. -->
-
 ## Abstract
 
 ## Converted Samples
@@ -16,6 +11,7 @@
 
 
 ### sample
+
 |   Model   |                             Sample 261                              |
 |:---------:|:-------------------------------------------------------------------:|
 | EL speech | <audio src="data/audio/EL01/EL01_261.wav" controls preload></audio> |
