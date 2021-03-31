@@ -4,6 +4,10 @@ You can use the [editor on GitHub](https://github.com/ymchiQQ/dedemomo/edit/gh-p
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+| title      | EL speech                                                         | NL speech                                                         |
+|:----------:|:-----------------------------------------------------------------:|:-----------------------------------------------------------------:|
+| sample 261 |<audio src="data/audio/EL01/EL01_261.wav" controls preload></audio>|<audio src="data/audio/EL01/EL01_262.wav" controls preload></audio>|
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
