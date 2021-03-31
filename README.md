@@ -1,2 +1,2 @@
 # dedemomo
-(dedemomo)[https://ymchiQQ.github.io/dedemomo/]
+[dedemomo](https://ymchiQQ.github.io/dedemomo/)
