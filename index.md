@@ -5,8 +5,8 @@
 ## Converted Samples
 
 ### sample 261
-| Sample | EL speech | Train from scratch | PT | MT-CLDNN |NL speech |
-|:------:|:---------:|:------------------:|:--:|:--------:|:--------:|
+| Sample | EL speech | Train from scratch | PT  | MT-CLDNN |NL speech |
+|:------:|:---------:|:------------------:|:---:|:--------:|:--------:|
 | 261 |<audio src="data/audio/EL01/EL01_261.wav" controls preload></audio>|<audio src="data/audio/EL01/EL01_262.wav" controls preload></audio>|<audio src="data/audio/EL01/EL01_262.wav" controls preload></audio>|<audio src="data/audio/EL01/EL01_262.wav" controls preload></audio>| <audio src="data/audio/EL01/EL01_262.wav" controls preload></audio>|
 
 
