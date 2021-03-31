@@ -1,42 +1,26 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/ymchiQQ/dedemomo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-| title      | EL speech                                                         | NL speech                                                         |
-|:----------:|:-----------------------------------------------------------------:|:-----------------------------------------------------------------:|
-| sample 261 |<audio src="data/audio/EL01/EL01_261.wav" controls preload></audio>|<audio src="data/audio/EL01/EL01_262.wav" controls preload></audio>|
+## Welcome to Demo Pages
 
 
-### Markdown
+[toc]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<!-- You can use the [editor on GitHub](https://github.com/ymchiQQ/dedemomo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files. -->
 
-```markdown
-Syntax highlighted code block
+## Abstract
 
-# Header 1
-## Header 2
-### Header 3
+## Converted Samples
 
-- Bulleted
-- List
+### sample 261
+| Sample | EL speech | Train from scratch | PT | MT-CLDNN |NL speech |
+|:------:|:---------:|:------------------:|:--:|:--------:|:--------:|
+| 261 |<audio src="data/audio/EL01/EL01_261.wav" controls preload></audio>|<audio src="data/audio/EL01/EL01_262.wav" controls preload></audio>|<audio src="data/audio/EL01/EL01_262.wav" controls preload></audio>|<audio src="data/audio/EL01/EL01_262.wav" controls preload></audio>| <audio src="data/audio/EL01/EL01_262.wav" controls preload></audio>|
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### sample
+|   Model   |                             Sample 261                              |
+|:---------:|:-------------------------------------------------------------------:|
+| EL speech | <audio src="data/audio/EL01/EL01_261.wav" controls preload></audio> |
+|    TFS    | <audio src="data/audio/EL01/EL01_261.wav" controls preload></audio> |
+|    PT     | <audio src="data/audio/EL01/EL01_261.wav" controls preload></audio> |
+| MT-CLDNN  | <audio src="data/audio/EL01/EL01_261.wav" controls preload></audio> |
+| NL speech | <audio src="data/audio/EL01/EL01_261.wav" controls preload></audio> |
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ymchiQQ/dedemomo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
