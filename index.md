@@ -11,13 +11,13 @@
 
 | Sample   | EL speech                                                           | NL speech                                                           | 
 |:--------:|:-------------------------------------------------------------------:|:-------------------------------------------------------------------:|
-| 261      | <audio src="data/audio/EL01/EL01_261.wav" controls preload style="width: 200px;"></audio> | <audio src="data/audio/EL01/EL01_262.wav" controls preload></audio> |
+| 261      | <audio src="data/audio/EL01/EL01_261.wav" controls preload style="width: 100px;"></audio> | <audio src="data/audio/EL01/EL01_262.wav" controls preload></audio> |
 
 ### sample 261
 
 | Sample | Train from scratch | Pretraining | MT-CLDNN |
 |:------:|:------------------:|:-----------:|:--------:|
-| 261 | <audio src="data/audio/EL01/EL01_261.wav" controls preload></audio> | <audio src="data/audio/EL01/EL01_262.wav" controls preload></audio> | <audio src="data/audio/EL01/EL01_262.wav" controls preload></audio> |
+| 261 | <audio src="data/audio/EL01/EL01_261.wav" controls preload style="width: 100px;"></audio> | <audio src="data/audio/EL01/EL01_262.wav" controls preload style="width: 100px;"></audio> | <audio src="data/audio/EL01/EL01_262.wav" controls preload style="width: 100px;"></audio> |
 
 
 ### sample
